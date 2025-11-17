@@ -18,15 +18,15 @@ This repository includes scalable, pixel-perfect, customizable icons suitable fo
 
 ## 🗂️ Folder Structure
 
-📁 icons/
-├── arrows/
-├── communication/
-├── social/
-├── system/
-├── media/
-├── navigation/
-├── files/
-└── misc/
+icons/
+ ├── arrows/
+ ├── communication/
+ ├── social/
+ ├── system/
+ ├── media/
+ ├── navigation/
+ ├── files/
+ └── misc/
 
 
 ---
